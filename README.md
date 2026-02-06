@@ -1,1 +1,115 @@
-# Portif-lio
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfólio | Yasmin Mendes Mautone</title>
+</head>
+<body>
+
+  <header>
+    <h1>Yasmin Mendes Mautone</h1>
+    <p>Estudante de Marketing Digital & Ciência de Dados | Copywriting & Storytelling</p>
+  </header>
+
+  <section id="sobre">
+    <h2>Sobre mim</h2>
+    <p>
+      Oi, eu sou a Yasmin 👋 Sou estudante de Marketing Digital e Ciência de Dados na FIAP,
+      apaixonada por comunicação, storytelling e criação de conteúdo. Tenho interesse especial
+      em copywriting e na construção de narrativas que conectam marcas e pessoas de forma
+      criativa e estratégica.
+    </p>
+    <p>
+      Minha experiência passa por projetos acadêmicos voltados à comunicação estratégica,
+      análise de dados, construção de personas e desenvolvimento de mensagens para engajamento
+      e conversão. Além disso, faço teatro, o que influencia diretamente minha escrita,
+      criatividade, comunicação e trabalho em equipe.
+    </p>
+  </section>
+
+  <section id="aprendizado">
+    <h2>O que estou aprendendo</h2>
+    <ul>
+      <li>Copywriting aplicado ao marketing digital</li>
+      <li>Storytelling e construção da voz da marca</li>
+      <li>Estratégia de conteúdo para redes sociais</li>
+      <li>Análise de dados para tomada de decisão em marketing</li>
+      <li>HTML e CSS para projetos e portfólio</li>
+      <li>UX, personas e jornada do usuário</li>
+    </ul>
+  </section>
+
+  <section id="motivacao">
+    <h2>O que me move</h2>
+    <p>
+      O que me move é transformar ideias em mensagens que fazem sentido. Gosto de entender
+      pessoas, comportamentos e histórias para criar conteúdos com propósito, que comuniquem
+      de forma clara, humana e estratégica.
+    </p>
+    <p>
+      Acredito no poder da comunicação bem feita, baseada em dados, criatividade e empatia.
+      Meu objetivo é crescer profissionalmente aprendendo na prática e colaborando com times
+      criativos.
+    </p>
+  </section>
+
+  <section id="projetos">
+    <h2>Projetos em destaque</h2>
+
+    <article>
+      <h3>Campanha de Marketing Baseada em Dados – FIAP</h3>
+      <p>
+        Análise de métricas, comportamento do usuário e apoio na criação de estratégias
+        segmentadas para aumentar engajamento e conversão.
+      </p>
+      <a href="#" target="_blank">Ver projeto</a>
+    </article>
+
+    <article>
+      <h3>Pesquisa de Personas – DarkSide Books</h3>
+      <p>
+        Análise de survey, construção de personas, benchmarking e geração de insights
+        estratégicos a partir de dados qualitativos e quantitativos.
+      </p>
+      <a href="#" target="_blank">Ver projeto</a>
+    </article>
+
+    <article>
+      <h3>B.A.I – Assistente Inteligente para Marcas</h3>
+      <p>
+        Projeto premiado em 2º lugar. Participação na análise de necessidades do usuário,
+        definição de jornada e estratégias de comunicação para assistente virtual corporativa.
+      </p>
+      <a href="#" target="_blank">Ver projeto</a>
+    </article>
+  </section>
+
+  <section id="tecnologias">
+    <h2>Tecnologias e ferramentas</h2>
+    <ul>
+      <li>Figma (básico)</li>
+      <li>Canva</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>GitHub</li>
+      <li>Storytelling e Copywriting</li>
+      <li>Pesquisa de personas</li>
+    </ul>
+  </section>
+
+  <section id="contato">
+    <h2>Contato</h2>
+    <p>Email: <a href="mailto:yayamautone@gmail.com">yayamautone@gmail.com</a></p>
+    <p>Localização: São Paulo – SP</p>
+    <p>
+      GitHub: <a href="#" target="_blank">seu link aqui</a><br>
+      LinkedIn: <a href="#" target="_blank">seu link aqui</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>© 2026 - Yasmin Mendes Mautone</p>
+  </footer>
+
+</body>
+</html>
