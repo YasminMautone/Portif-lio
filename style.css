@@ -44,7 +44,7 @@ h2 {
 p {
   color: var(--muted);
   max-width: 800px;
-  margin: 0 auto 16px;
+  margin: 0 0 16px 0;
   line-height: 1.8;
 }
 
